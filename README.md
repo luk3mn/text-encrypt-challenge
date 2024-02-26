@@ -12,16 +12,16 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/luk3mn/text-encrypt-challenge">
-    <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/MyAnimeList_-_Full_Text_Logo.jpg" alt="Logo" width="160" height="80"> -->
+  <a href="https://github.com/luk3mn/todolist">
+    <!-- <img src="https://assets.materialup.com/uploads/fe759ee3-4f24-4e41-ab3d-036ad6845c88/preview" alt="Logo" width="80" height="80"> -->
   </a>
 
   <h3 align="center">Text Encrypt Challenge</h3>
 
   <p align="center">
-    
+    Sprint 01: Text encrypts challenge application by Oracle + Alura Program.
     <br />
-    <a href="https://github.com/luk3mn/text-encrypt-challenge/README.md"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/luk3mn/todolist/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
   </p>
@@ -129,7 +129,7 @@ _Before starting this application in your local environment, it'll be necessary 
 - [ ] JS
 
 > Deploy
-- [ ] AWS
+- [ ] Vercel
 
 <p align="right">(<a href="#text-encrypt-challenge">back to top</a>)</p>
 
