@@ -126,7 +126,7 @@ _Before starting this application in your local environment, it'll be necessary 
 > Front-End
 - [ ] HTML
 - [ ] CSS
-- [ ] JS
+- [x] JS
 
 > Deploy
 - [ ] Vercel
@@ -163,14 +163,15 @@ If you have any feedback, please reach out to us at lucasnunes2030@gmail.com
 ## Acknowledgments
 
 I think it would be interesting to place here some references and other resources that were useful and helped me to work on this project. I hope it can help you as well!
-<!-- * []() -->
+* [PX to REM Converter](https://codebeautify.org/px-to-rem-converter)
+* [Copy text to clipboard in JS(two ways) ](https://dev.to/0shuvo0/copy-text-to-clipboard-in-jstwo-ways-1pn1)
 
 
 <p align="right">(<a href="#text-encrypt-challenge">back to top</a>)</p>
 
 
 
-<!-- MARKDOWN LINKS & IMAGES -->
+<!-- MARKDOWN LINKS & IMAGES --
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/luk3mn/text-encrypt-challenge.svg?style=for-the-badge
 [contributors-url]: https://github.com/luk3mn/text-encrypt-challenge/graphs/contributors
