@@ -4,7 +4,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+<!-- [![MIT License][license-shield]][license-url] -->
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -19,7 +19,7 @@
   <h3 align="center">Text Encrypt Challenge</h3>
 
   <p align="center">
-    Sprint 01: Text encrypts challenge application by Oracle + Alura Program.
+    Sprint 01: Text encrypts challenge application by Oracle + Alura Program. <span style="font-weight: 600;">#challengeonedecodificador6</span>
     <br />
     <a href="https://github.com/luk3mn/todolist/README.md"><strong>Explore the docs »</strong></a>
     <br />
@@ -42,14 +42,14 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
+        <!-- <li><a href="#prerequisites">Prerequisites</a></li> -->
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <!-- <li><a href="#usage">Usage</a></li> -->
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
+    <li><a href="#authors">Authors</a></li>
+    <li><a href="#feedback">Feedback</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
@@ -58,19 +58,17 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<!-- ![Home](src/assets/diagram.png) -->
-
 
 <p align="justify">
-  [...] 
+  Web Application related to Oracle + Alura program challenge
+  
+  App deployed: https://luk3mn.github.io/text-encrypt-challenge/
 
   In this project, it was necessary to split it into some parts, such as: 
-  - **Encrypt Logic:** ...;
-  - **Decrypt Logic:** ...;
-  - **Application Interface:** ...;
+  - **Encrypt Logic:** Javascript function to get a message from the input field and convert some characters using encrypting keys;
+  - **Decrypt Logic:** Javascript function to get a decrypted message from the input field and convert it to the original message using decrypting keys;
+  - **Application Interface:** Front-end application using HTML5 and CSS3 to structure and style application;
 </p> 
-
-
 
 
 <p align="right">(<a href="#text-encrypt-challenge">back to top</a>)</p>
@@ -108,7 +106,7 @@ _Before starting this application in your local environment, it'll be necessary 
 
 
 <!-- USAGE EXAMPLES -->
-## Usage / Examples
+<!-- ## Usage / Examples -->
 
 <!-- ### Screenshots
 
@@ -124,12 +122,12 @@ _Before starting this application in your local environment, it'll be necessary 
 - [x] Decrypt
 
 > Front-End
-- [ ] HTML
-- [ ] CSS
+- [x] HTML
+- [x] CSS
 - [x] JS
 
 > Deploy
-- [ ] Vercel
+- [x] Github Pages
 
 <p align="right">(<a href="#text-encrypt-challenge">back to top</a>)</p>
 
@@ -138,9 +136,9 @@ _Before starting this application in your local environment, it'll be necessary 
 What did you learn while building this project? What challenges did you face and how did you overcome them? -->
 
 <!-- LICENSE -->
-## License
+<!-- ## License -->
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+<!-- Distributed under the MIT License. See `LICENSE.txt` for more information. -->
 
 <p align="right">(<a href="#text-encrypt-challenge">back to top</a>)</p>
 
