@@ -17,7 +17,6 @@ html {
     display: flex;
     flex-direction: column;
     
-    border: 2px solid red;
     background-color: var(--bg-primary);
     height: 100vh;
     width: 100vw;
@@ -42,13 +41,11 @@ html {
 
     display: flex;
     flex-direction: column;
-    padding: .5rem .3rem;
+    padding: .5rem .5rem;
 }
 
 .container > .main__section > form > #field-message {
     flex: 1;
-    
-    /* text-align: start; */
 
     color: var(--bg-third);
     font-weight: 500;
@@ -61,6 +58,16 @@ html {
     background-color: var(--bg-primary);
     outline: none;
     resize: none;
+}
+
+::-webkit-input-placeholder {
+    color: var(--bg-third);
+    opacity: .9;
+}
+
+::-moz-placeholder {
+    color: var(--bg-third);
+    opacity: .9;
 }
 
 .container > .main__section > form > .warning {
@@ -86,13 +93,17 @@ html {
 
     display: flex;
     flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 0 .5rem;
 }
 
 .container > .main__section > form > .hold-buttons > input {
     padding: 1rem;
     border-radius: 1.3rem;
-    margin: .6rem;    
+    margin: .5rem 0;
     border: 1px solid var(--bg-third);
+    width: 100%;
 }
 
 .hold-buttons > input:nth-child(1) {
